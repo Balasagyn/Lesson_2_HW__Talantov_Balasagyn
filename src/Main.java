@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(weather(24, 16));
-        System.out.println(weather(25, 12));
-        System.out.println(weather(27, 15));
-        System.out.println(weather(28, 19));
-        System.out.println(weather(29, 18));
+        System.out.println(weather(27, 10));
+        System.out.println(weather(23, 19));
+        System.out.println(weather(26, 13));
+        System.out.println(weather(22, 17));
+        System.out.println(weather(21, 16));
     }
 
     public static String weather(int age, int temperature){
